@@ -11,5 +11,5 @@ As this is done, the median of the color in the selected circular regions is cal
 As this happens, the point closest to the center of the selected white ball is selected as the tip of the cue stick( as we need the code to help play shot from cue stick and it needs to work correctly in that case). Then, a straight line is drawn from the selected point to the center of white ball, which is further extended and is also shown to reflect from the edges of tables two times, in order to show the predicted path of the white ball. This path is shown in the original image and is given as the output as shown below.
 ![alt text](https://github.com/himanshudua/Interactive-Pool-Table/blob/master/Pool%20Photos/3.jpg)
 # Acknowledgements
-[Soumay Gupta](https://github.com/iamguptaji?tab=repositories) fot Guidance.
+[Soumay Gupta](https://github.com/iamguptaji?tab=repositories) for Guidance.
 Google, Mathworks for solving issues.
